@@ -1,7 +1,7 @@
 """
 Purpose: Get acquainted with basic Python concepts.
 
-Author: Denise Case
+Author: Hayley M
 
 This file name is:   acquainted.py
 This module name is: acquainted
@@ -42,17 +42,17 @@ logger,logname = setup_logger(__file__)
 # Try some string, integer, float, and boolean (True/False) variables
 # TODO: Customize these by changing the values 
 
-name = "John Doe"
-state = "California"
+name = "Hayley M"
+state = "Missouri"
 country = "USA"
 
-pet_count = 1
+pet_count = 3
 skill_count = 24
 
-temperature_f = 81.5
-pet_weight_lbs = 12.5
+temperature_f = 76
+pet_weight_lbs = 11
 
-has_dog = False
+has_dog = True
 likes_analytics = True
 likes_python = True
 
