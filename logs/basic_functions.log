@@ -1,0 +1,19 @@
+2023-05-11 21:27:04,911 =============================================================
+2023-05-11 21:27:04,912 =============================================================
+2023-05-11 21:27:04,912 Today is 2023-05-11 at 09:27 PM
+2023-05-11 21:27:04,932 This file is running on: nt Windows 10
+2023-05-11 21:27:04,932 The Python version is: 3.11.3
+2023-05-11 21:27:04,932 The active conda environment is:  None
+2023-05-11 21:27:04,932 The active pip environment is:    None
+2023-05-11 21:27:04,932 The active environment path is:   C:\Users\Hayley\AppData\Local\Programs\Python\Python311
+2023-05-11 21:27:04,932 The current working directory is: C:\Users\Hayley\OneDrive\School 2023\GitHub\datafun-01-getting-started
+2023-05-11 21:27:04,932 This source file is in:           C:\Users\Hayley\OneDrive\School 2023\GitHub\datafun-01-getting-started
+2023-05-11 21:27:04,932 =============================================================
+2023-05-11 21:27:04,932 =============================================================
+2023-05-11 21:27:04,932 Functions url = https://docs.python.org/3/library/functions.html
+2023-05-11 21:27:04,932 number_list = [1, 2, 3, 4, 5]
+2023-05-11 21:27:04,932 len(number_list) = 5
+2023-05-11 21:27:04,932 min(number_list) = 1
+2023-05-11 21:27:04,932 max(number_list) = 5
+2023-05-11 21:27:14,533 message = Hello Hayley!
+2023-05-11 21:27:17,160 response = y
