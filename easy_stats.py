@@ -173,7 +173,7 @@ logger.info("Remember to close the app. Control c (or d or z maybe) to close it.
 
 # is the user ready to see a chart?
 # TODO: change this to True when ready
-ready_for_chart = False
+ready_for_chart = True
 
 logger.info(f"ready_for_chart = {ready_for_chart}")
 
