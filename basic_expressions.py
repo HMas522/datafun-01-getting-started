@@ -1,7 +1,7 @@
 """
 Purpose: Illustrate basic expresssions and operators in Python.
 
-Author: Denise Case
+Author: Hayley M
 
 This file name is:   basic_expressions.py
 This module name is: basic_expressions
@@ -30,13 +30,13 @@ logger,logname = setup_logger(__file__)
 # Declare some variables 
 # TODO: Try changing the values of these variables
 # TODO: Add some new variables and calculate the area of a rectangle ()
-triangle_base = 10
-triangle_height = 5
+triangle_base = 13
+triangle_height = 3
 i = 50
 j = 20
-a = 1.1
-b = 2.2
-c = 3.3
+a = 1.5
+b = 0.8
+c = 4.0
 
 # Try some operators (multiply, divide, add, subtract)
 triangle_area = triangle_base * triangle_height / 2

@@ -222,13 +222,13 @@ Markdown skills are valuable.
 
 If you like, change the open boxes [ ] below to checked boxes [x] as you gain new skills.
 
-- [ ] Sign up for GitHub
-- [ ] Fork a repo into your GitHub
-- [ ] Install Git
+- [x] Sign up for GitHub
+- [x] Fork a repo into your GitHub
+- [x] Install Git
 - [ ] Configure Git
-- [ ] Install Python 3
-- [ ] Install VS Code 
-- [ ] Clone your new GitHub repository/repo down to your machine
+- [x] Install Python 3
+- [x] Install VS Code 
+- [x] Clone your new GitHub repository/repo down to your machine
 - [ ] Explore your local repo in VS Code
 - [ ] Execute Python scripts
 - [ ] Edit Python scripts
