@@ -9,8 +9,6 @@ Author: Hayley Massey
 """
 print("Greetings!")
 
-
-
-# Use built-in open() function to read log file and print it to the terminal
-with open(logname, 'r') as file_wrapper:
-    print(file_wrapper.read())
+#Demonstrates the use of a varaible
+name = "Hayley"
+print (name)
