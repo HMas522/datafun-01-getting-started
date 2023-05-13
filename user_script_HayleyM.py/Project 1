@@ -4,7 +4,9 @@ Purpose: Project One
 
 Author: Hayley Massey
 
-
+Hello! My favorite video game is Monster Hunter Rise. The goal is to defeat the monster in a set time frame. 
+One of my favorite weapon types is dual blades. They produce low damage values, but fast multiple hits.
+Lets calculate my overall damage to the monster. 
 
 """
 print("Greetings!")
@@ -12,3 +14,21 @@ print("Greetings!")
 #Demonstrates the use of a varaible
 name = "Hayley"
 print (name)
+
+string1 = input("10")
+string2 = input("12")
+string3 = input("30")
+string4 = input("13")
+
+int1 = int(string1)
+int2 = int(string2)
+int3 = int(string3)
+int4 = int(string4)
+
+#Let's see the sum of our damage
+sum (int1 int2 int3 int4)
+print (sum)
+
+#What was our minimum damage?
+min (int1, int2, int3,int4)
+print (min)
