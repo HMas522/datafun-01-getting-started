@@ -9,6 +9,9 @@ One of my favorite weapon types is dual blades. They produce low damage values, 
 Lets calculate my overall damage to the monster. 
 
 """
+from util_datafun_logger import setup_logger
+logger,logname = setup_logger(__file__)
+
 print("Greetings!")
 
 #Demonstrates the use of a varaible
@@ -26,9 +29,13 @@ int3 = int(string3)
 int4 = int(string4)
 
 #Let's see the sum of our damage
-sum (int1 int2 int3 int4)
+sum (int1, int2, int3, int4)
 print (sum)
 
 #What was our minimum damage?
 min (int1, int2, int3,int4)
 print (min)
+
+# Use built-in open() function to read the log file and print it to the terminal
+with open(logname, 'r') as file_wrapper:
+    print(file_wrapper.read())
